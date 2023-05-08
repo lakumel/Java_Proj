@@ -166,7 +166,7 @@ public class PrimaryDataType {
 		
 		//3.printf() : 문자열 내에서, 뒤의 변수값을 불러들임 "%s" : 문자열, "%d" : 정수 , "%f" : 실수
 				// "%c" : 문자열의 변수값을 불러들인다.
-		System.out.printf("나의 이름은 %c %c%c 입니다. \n", val22, val23, val24);
+		System.out.printf("나의 이름은 %c %c %c 입니다. \n", val22, val23, val24);
 		
 		
 		// 참조 자료형 : String (객체) 	: 문자열을 저장하는 자료형 : ""
