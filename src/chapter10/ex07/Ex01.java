@@ -53,9 +53,12 @@ public class Ex01 {
 		"사과" 2000 5
 		"바나나" 4000 10
 		"딸기" 5000 30
-		
-		
 		*/
+		
+		Apple a1 = new Apple("사과", 2000, 50); 
+		Banana b1 = new Banana("바나나", 4000, 10); 
+		Strawberry s1 = new Strawberry("딸기", 5000, 30); 
+		
 		
 		//모든 객체를 Object 배열 안에 넣는다.
 		
