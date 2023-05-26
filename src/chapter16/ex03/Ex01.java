@@ -40,9 +40,6 @@ public class Ex01 {
 		Animal<Eagle> eagle = new Animal<Eagle>();
 		eagle.setT(new Eagle());
 		System.out.println(eagle.getT().name);
-		
-		
-		
-		
+
 	}
 }
